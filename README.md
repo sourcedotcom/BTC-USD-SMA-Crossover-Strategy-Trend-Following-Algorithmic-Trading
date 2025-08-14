@@ -41,8 +41,8 @@ The system avoids lookahead bias, ensures reproducibility, and generates key tra
 
 # 📂 Project Structure
 
-main.py (# Main strategy and backtest runner)
-Project Report.pdf (# Full project report)
-Project Report.rtf (# Alternative project report format)
-Project_files/ (# Supporting files/resources)
-BTC_2019_2023_1d.csv (# Historical BTC/USD dataset (daily))
+    main.py (# Main strategy and backtest runner)
+    Project Report.pdf (# Full project report)
+    Project Report.rtf (# Alternative project report format)
+    Project_files/ (# Supporting files/resources)
+    BTC_2019_2023_1d.csv (# Historical BTC/USD dataset (daily))
